@@ -9,4 +9,5 @@ frontend:
 
   # Extra Javascript module to load.
   extra_module_url:
-    - /hacsfiles/hass-hue-icons/hass-hue-icons.js
+    - /local/zoom-enable.js
+    - /hacsfiles/custom-sidebar/custom-sidebar-yaml.js?v4.6.0

@@ -1,7 +1,7 @@
 ---
 #
 # List of entities that is exposed to Google Assistant
-# Area: Bedroom Flynn
+# Area: Bedroom Lilly
 #
 # entities:
-- climate.bedroom_flynn
+# - climate.bedroom_lilly
